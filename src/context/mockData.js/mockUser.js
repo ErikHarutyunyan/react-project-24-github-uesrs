@@ -7,28 +7,32 @@ export default {
   url: "https://api.github.com/users/ErikHarutyunyan",
   html_url: "https://github.com/ErikHarutyunyan",
   followers_url: "https://api.github.com/users/ErikHarutyunyan/followers",
-  following_url: "https://api.github.com/users/ErikHarutyunyan/following{/other_user}",
+  following_url:
+    "https://api.github.com/users/ErikHarutyunyan/following{/other_user}",
   gists_url: "https://api.github.com/users/ErikHarutyunyan/gists{/gist_id}",
-  starred_url: "https://api.github.com/users/ErikHarutyunyan/starred{/owner}{/repo}",
-  subscriptions_url: "https://api.github.com/users/ErikHarutyunyan/subscriptions",
+  starred_url:
+    "https://api.github.com/users/ErikHarutyunyan/starred{/owner}{/repo}",
+  subscriptions_url:
+    "https://api.github.com/users/ErikHarutyunyan/subscriptions",
   organizations_url: "https://api.github.com/users/ErikHarutyunyan/orgs",
   repos_url: "https://api.github.com/users/ErikHarutyunyan/repos",
   events_url: "https://api.github.com/users/ErikHarutyunyan/events{/privacy}",
-  received_events_url: "https://api.github.com/users/ErikHarutyunyan/received_events",
+  received_events_url:
+    "https://api.github.com/users/ErikHarutyunyan/received_events",
   type: "User",
   site_admin: false,
-  name: null,
+  name: "Erik Harutyunyan",
   company: null,
-  blog: "",
-  location: null,
+  blog: "http://onlinecv.myartsonline.com/",
+  location: "Yerevan, Armenia",
   email: null,
   hireable: null,
-  bio: null,
+  bio: "Developer",
   twitter_username: null,
-  public_repos: 34,
+  public_repos: 35,
   public_gists: 0,
   followers: 0,
   following: 0,
   created_at: "2021-04-17T16:34:49Z",
-  updated_at: "2021-12-02T15:36:22Z"
-}
+  updated_at: "2022-01-29T14:08:10Z",
+};
